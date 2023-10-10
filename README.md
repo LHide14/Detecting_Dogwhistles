@@ -28,11 +28,21 @@ Direct slurs were replaced by their Dogwhistle counterparts, and the data was up
 
 <h3 aligh="left">Custom Data</h3>
 
+| Metric | Logistic Regression | Perceptron | MLP |
+| ------ | ------------------- | ---------- | --- |
+| Accuracy | 0.90 | 0.80 | 0.70 |
+| Precision | 0.80 | 0.80 | 0.75 |
+| Recall | 1.00 | 0.80 | 0.60 |
+| F1 | 0.89 | 0.80 | 0.67 |
 
-| Text | Target | Log Reg Probability | Log Reg Prediction | MLP Probability | MLP Prediction | Perceptron Decision | Perceptron Prediction |
-| ---- | ------ | ----------- | ---------- | ----------- | ---------- | ----------- | ---------- |
-| obama is another deadbeat dad | 1 | 0.89698 | 1 | 1.00000 | 1 | 0.77307 | 1 |
-| another example of the dangerous impact of the genderist agenda on our children | 1 | 0.78898 | 1 | 0.00009 | 0 | -0.05762 | 0 |
-| our streets are now overrun with dindus | 1 | 0.88994 | 1 | 1.00000 | 1 | 0.57793 | 1 |
-| the demographic of my small town is now what you might call urban | 1 | 0.10620 | 0 | 0.63762 | 1 | 0.30551 | 1 |
 <h3 aligh="left">Conclusions</h3>
+
+* Simple Logistic Regression model performs well on this datset
+* Neural Network models performed worse across all metrics
+* However, they did identify a complex case that the Logistic Regression did not catch
+* Find the correct model according to requirements and data availble
+
+<h3 aligh="left">What Next?</h3>
+
+* What could the Neural Networks do with more data?
+* What are the upper limits of the Logistic Regression model?
