@@ -28,5 +28,9 @@ Direct slurs were replaced by their Dogwhistle counterparts, and the data was up
 
 <h3 aligh="left">Custom Data</h3>
 
+                | Logistic Regression      | MLP                      | Perceptron               |
+                | ------------------------ | ------------------------ | ------------------------ |
+| Text | Target | Probability | Prediction | Probability | Prediction | Probability | Prediction |
+| ---- | ------ | ----------- | ---------- | ----------- | ---------- | ----------- | ---------- |
 
 <h3 aligh="left">Conclusions</h3>
