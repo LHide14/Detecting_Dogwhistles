@@ -40,7 +40,7 @@ Direct slurs were replaced by their Dogwhistle counterparts, and the data was up
 * Simple Logistic Regression model performs well on this datset
 * Neural Network models performed worse across all metrics
 * However, they did identify a complex case that the Logistic Regression did not catch
-* Find the correct model according to requirements and data availble
+* Find the correct model according to requirements and data availible
 
 <h3 aligh="left">What Next?</h3>
 
