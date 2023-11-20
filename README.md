@@ -1,7 +1,9 @@
 <h1 align="center">Detecting_Dogwhistles</h1>
 <h3 align="center">Evolution in the Detection of Online Hate</h3>
 
-![alt text](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGRhdGElMjBzY2llbmNlJTIwc29jaWFsJTIwbWVkaWF8ZW58MHx8MHx8fDA%3D)
+<p align='center'>
+    <img src='https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGRhdGElMjBzY2llbmNlJTIwc29jaWFsJTIwbWVkaWF8ZW58MHx8MHx8fDA%3D' />
+</p>
 
 This project aimed to create a machine learning model that could identify hateful comments when slurs had been replaced by covert Dogwhistles.
 
