@@ -46,3 +46,15 @@ Direct slurs were replaced by their Dogwhistle counterparts, and the data was up
 
 * What could the Neural Networks do with more data?
 * What are the upper limits of the Logistic Regression model?
+
+<hr><br>
+<h3 aligh="left">Tech</h3>
+<table align='center'>
+    <tr>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/python.png" title="python"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/jupyter.png" title="jupyter"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/pandas.png" title="pandas"></td>
+        <td align='center'><img width="70" src="https://github.com/LHide14/LHide14/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="sklearn"></td>
+    </tr>
+</table>
+<br><br>
