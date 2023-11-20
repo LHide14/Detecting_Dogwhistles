@@ -13,6 +13,8 @@ A Dogwhistle is an encoded word or phrase that simultaneously conveys one meanin
 
 These are used to evade both political repercussions and algorithmic content moderation.
 
+<hr><br>
+
 <h3 aligh="left">Data Generation</h3>
 
 Acquiring the data to train the models was always going to be a challenge due to the difficultly of finding real-life examples and the ethical concerns relating to the generation of such content by Generative AI.
@@ -20,6 +22,8 @@ Acquiring the data to train the models was always going to be a challenge due to
 After various tests, it was decided that the best way to get this data was to generate it using templates found at HateCheck, which is used to test AI content moderation models.
 
 Direct slurs were replaced by their Dogwhistle counterparts, and the data was upsampled to ensure there were no class imbalances and then processed for model training.
+
+<hr><br>
 
 <h3 aligh="left">Comparing Models</h3>
 
@@ -38,6 +42,8 @@ Direct slurs were replaced by their Dogwhistle counterparts, and the data was up
 | Precision | 0.80 | 0.80 | 0.75 |
 | Recall | 1.00 | 0.80 | 0.60 |
 | F1 | 0.89 | 0.80 | 0.67 |
+
+<hr><br>
 
 <h3 aligh="left">Conclusions</h3>
 
